@@ -1,4 +1,4 @@
-# componentler-arasi-iletisim
+# Communication between components with Vue.js
 
 > A Vue.js project
 
